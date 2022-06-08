@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+body {
+    background-image: url(/img/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 120px;
+}
+
+.li1 a {
+    font-size: 32px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.font {
+    color: #FFCA00;
+}
+
+.li2 a {
+    text-decoration: none;
+    font-size: 26px;
+    color: #fff;
+    padding: 0 40px;
+}
+
+.li2 button {
+    background-color: transparent;
+    color: #fff;
+    font-size: 26px;
+    border: 2px solid #fff;
+    border-radius: 62px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.text1 {
+    font-size: 32px;
+    color: #fff;
+    padding-bottom: 25px;
+}
+
+.undertext {
+    padding-bottom: 25px;
+}
+
+.text2 {
+    font-size: 18px;
+    color: #5C628A;
+}
+
+.fill {
+    margin-top: 30px;
+}
+
+.btnli {
+    background-color: transparent;
+    color: #fff;
+    font-size: 16px;
+    border: 2px solid #fff;
+    border-radius: 62px;
+    cursor: pointer;
+}
+
+.btnli2 {
+    background-color: transparent;
+    font-size: 16px;
+    background-color: #FFCA00;
+    border-radius: 62px;
+    cursor: pointer;
+}
+.btnli a {
+    text-decoration: none;
+    color: #fff;
+    opacity: 60%;
+}
+
+.btnli2 a {
+   text-decoration: none;
+   color: #222651;
+   font-weight: bold;
+}
+ .li3 {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .li3 button {
+    margin: 30px 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 150px;
+ }
+
+
+ .li4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+
+
+ .li4 button {
+    margin: 10px 0;
+ }
+
+ .li44 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 350px;
+ }
+
+ .li33 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 377px;
+ }
+
+
+ .li5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .li5 button {
+    margin: 70px 118px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+ }
+
